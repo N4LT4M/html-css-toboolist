@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box
 }
+
+.insiemi-iniziali {
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+
+    border-width: 50px;
+
+}
