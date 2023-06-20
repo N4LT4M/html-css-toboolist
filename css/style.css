@@ -9,3 +9,10 @@
     padding: 50px;
 
 }
+
+.bottoni {
+    border: 1px solid grey;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+}
